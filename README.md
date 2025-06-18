@@ -10,16 +10,11 @@
                 border: 100px;
                 border-width: 10px;
                 border-style: groove;
-
-                
-
             }
             article{
                 width:auto;
                 height:auto;
             }
-        
-            
         </style>
         <meta name="descrption" content="all html tags">
         <meta name="authour" content="zeal computers">
